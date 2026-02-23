@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -96,4 +96,5 @@ body {
   background: #0f172a;
   transform: scale(1.05);
   color: #fff;
+
 }
